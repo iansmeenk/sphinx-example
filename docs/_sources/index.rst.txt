@@ -10,6 +10,8 @@ Welcome to HW1's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   tutorial
+   code
 
 
 Indices and tables
